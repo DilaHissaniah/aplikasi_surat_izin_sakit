@@ -5,7 +5,7 @@ Untuk masuk ke aplikasi data surat izin sakit silahkan login masukkan username d
 Setelah login maka muncul seperti gambar di atas akan ada data siapa orang yang sakit dan izin beserta potonya
 ![image](https://user-images.githubusercontent.com/97661073/162894718-87ae9ebb-c1bf-4df1-b6d7-a3634dea37a9.png)
 
-Ketika mengklik tombol tambah dan maka akan mucul form seperti gambar di bawah
+Ketika mengklik tombol tambah maka akan mucul form seperti gambar di bawah
 ![image](https://user-images.githubusercontent.com/97661073/162894776-770aa4f4-91d5-4e03-8844-1b714ee05144.png)
 
 dan jika mengklik tombol edit maka akan mucul form seperti gambar di bawah
